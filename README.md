@@ -3,7 +3,7 @@
 SnapAutomation is an ADB-powered automation script that enhances your Snapchat experience by automating snap sending. This project leverages Python and ADB to interact with your device and perform actions programmatically.
 
 ## ⚠ Disclaimer
-This project is intended for educational purposes only. Misuse of this script may violate Snapchat's terms of service and result in account restrictions or bans. Use it responsibly at your own risk.
+This project is intended for educational purposes only. Misuse of this script may violate Snapchat's terms of service and result in account restrictions or bans. Use it responsibly at your own risk.However we have added some tweeks which snapchat may not notice.
 
 ## 📌 Features
 - Automated snap sending
@@ -22,7 +22,7 @@ Ensure you have the following installed on your system:
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/SnapAutomation.git
+git clone https://github.com/Anu27n/SnapAutomation.git
 cd SnapAutomation
 ```
 
@@ -90,12 +90,5 @@ Ensure:
 - USB Debugging is enabled in Developer Options.
 - You have authorized your PC for debugging.
 
-## 🤝 Contributing
-Pull requests are welcome! Feel free to improve the script by adding new features or optimizing the existing code.
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
 
 ⚡ **Use responsibly and have fun automating!** 🚀
